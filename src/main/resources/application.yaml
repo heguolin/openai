@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+
+api:
+  base-url: https://api.deepseek.com
+  key: 
+  timeout: 5000
+
